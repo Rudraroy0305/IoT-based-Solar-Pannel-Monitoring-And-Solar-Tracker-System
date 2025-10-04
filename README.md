@@ -3,7 +3,11 @@ This project enhances solar energy efficiency by integrating real-time IoT monit
 
 Key features include:
   i.Remote monitoring of solar panel performance through IoT.
+  
   ii.Data-driven optimization, enabling panels to maximize energy generation.
+  
   iii.Scalability and sustainability, with potential integration into smart grids and future solar expansions.
+  
   iv.Environmental and societal impact, promoting renewable energy adoption and potential job creation.
+  
 This project demonstrates how IoT and embedded systems can be leveraged to create a cost-effective, sustainable, and intelligent solar power solution.
