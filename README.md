@@ -1,4 +1,7 @@
 # IoT-based-Solar-Pannel-Monitoring-And-Solar-Tracker-System
+
+<img width="508" height="284" alt="image" src="https://github.com/user-attachments/assets/18ec13d3-8a01-4cb9-9ba7-40a9b8a86cb2" />
+
 This project enhances solar energy efficiency by integrating real-time IoT monitoring with an automated solar tracking mechanism. Using ESP32, Arduino Uno, LDR sensors, DHT11, and servo motors, the system dynamically adjusts solar panel angles to follow the sun’s path while monitoring key parameters such as temperature, voltage, and current.
 
 Key features include:
